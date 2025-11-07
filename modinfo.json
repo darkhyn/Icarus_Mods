@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Better Supplies",
+      "author": "darkhyn",
+      "version": "1.2.0",
+      "compatibility": "All",
+      "description": "Adds jerky, jelly, and a performance increasing drug to the workshop to take on your missions",
+      "imageURL": "https://github.com/darkhyn/Icarus_BetterSupplies/blob/main/Icons.png",
+      "readmeURL": "https://github.com/darkhyn/Icarus_BetterSupplies/blob/main/Readme.txt",
+      "files": {
+          "exmodz": "https://github.com/darkhyn/Icarus_Mods/blob/main/Better_Supplies/Better_Supplies.EXMODZ"
+      }
+    }
+   ]
+ }
